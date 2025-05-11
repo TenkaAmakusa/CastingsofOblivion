@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|c:\\users\\jreez\\documents\\my games\\terraria\\tmodloader\\modsources\\coomod\\coomod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|solutionrelative:coomod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|c:\\users\\jreez\\documents\\my games\\terraria\\tmodloader\\modsources\\coomod\\icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|solutionrelative:icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|c:\\users\\jreez\\documents\\my games\\terraria\\tmodloader\\modsources\\coomod\\description_workshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|solutionrelative:description_workshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|c:\\users\\jreez\\documents\\my games\\terraria\\tmodloader\\modsources\\coomod\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|solutionrelative:description.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|c:\\users\\jreez\\documents\\my games\\terraria\\tmodloader\\modsources\\coomod\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7212D3CE-9568-5FC9-3F14-7D08F0BEE363}|COOMod.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "icon.png - PNG [80x80, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\icon.png",
+              "RelativeDocumentMoniker": "icon.png",
+              "ToolTip": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\icon.png - PNG [80x80, 32 bit, PNG]",
+              "RelativeToolTip": "icon.png - PNG [80x80, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-11T01:21:04.372Z",
+              "EditorCaption": " - PNG [80x80, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "description_workshop.txt",
+              "DocumentMoniker": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\description_workshop.txt",
+              "RelativeDocumentMoniker": "description_workshop.txt",
+              "ToolTip": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\description_workshop.txt",
+              "RelativeToolTip": "description_workshop.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-11T01:21:04.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "description.txt",
+              "DocumentMoniker": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\description.txt",
+              "RelativeDocumentMoniker": "description.txt",
+              "ToolTip": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\description.txt",
+              "RelativeToolTip": "description.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-11T01:21:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "COOMod.cs",
+              "DocumentMoniker": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\COOMod.cs",
+              "RelativeDocumentMoniker": "COOMod.cs",
+              "ToolTip": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\COOMod.cs",
+              "RelativeToolTip": "COOMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:21:03.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\jreez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\COOMod\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-11T01:21:02.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
