@@ -10,4 +10,40 @@ Items: {
 			It's snowing on Mt.Fuji
 			'''
 	}
+
+	Pauldron: {
+		DisplayName: Pauldron
+		Tooltip:
+			'''
+			3 defense
+			Increases melee damage by a flat 10
+			'''
+	}
+
+	ShadowTendril: {
+		Tooltip: ""
+		DisplayName: Shadow Tendril
+	}
+
+	Chambering: {
+		Tooltip: ""
+		DisplayName: Chambering
+	}
+
+	Damage: {
+		Tooltip: ""
+		DisplayName: Damage
+	}
+
+	Siphon: {
+		Tooltip:
+			'''
+			25% increased magic damage
+			Increases maximum mana by 100
+
+			[c/808080:Your attacks take 50% more mana.]
+			[c/808080:You heal mana equal to 10% of the damage you deal with all weapons.]
+			'''
+		DisplayName: Siphon
+	}
 }

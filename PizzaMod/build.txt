@@ -1,3 +1,0 @@
-displayName = Pizza Mod Deluxe™
-author = Ashley &amp; Terra
-version = 0.1

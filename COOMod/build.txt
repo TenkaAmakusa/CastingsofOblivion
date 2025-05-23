@@ -1,3 +1,0 @@
-displayName = Castings of Oblivion
-author = Marissa &amp; Luna
-version = 0.1
