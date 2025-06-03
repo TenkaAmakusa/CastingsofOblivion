@@ -1,6 +1,7 @@
 ﻿using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using COOMod.Content.Systems.Player;
 
 namespace COOMod.Content.Items.Accessories.ClassSpec.Multiclass
 {
@@ -19,7 +20,7 @@ namespace COOMod.Content.Items.Accessories.ClassSpec.Multiclass
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
             base.UpdateAccessory(player, hideVisual);
-            player.GetDamage(DamageClass.Generic) += 10;
+            player.GetDamage(DamageClass.Generic) += 100/10;
             player.statLifeMax2 += 25;
         }
 
