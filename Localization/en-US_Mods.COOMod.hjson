@@ -46,4 +46,16 @@ Items: {
 			'''
 		DisplayName: Siphon
 	}
+
+	WindsweptTorch: {
+		Tooltip: ""
+		DisplayName: Windswept Torch
+	}
+
+	Fasty: {
+		DisplayName: Fasty
+		Tooltip: ""
+	}
 }
+
+Projectiles.Homer.DisplayName: Homer
