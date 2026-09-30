@@ -1,2 +1,2 @@
 # CastingsofOblivion
- COOMod
+Abandoned project that never got anywhere.
